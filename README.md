@@ -1,3 +1,1 @@
 # my-discord-bot
-
-ok
